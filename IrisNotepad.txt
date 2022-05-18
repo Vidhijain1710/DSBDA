@@ -1,0 +1,44 @@
+1--Scatter plot
+petal length=row
+petal width=column
+species=color
+id=detail
+can change shape
+give name to sheet
+
+2--Comparison between all species
+species=column
+row=PL,SL,PW,SW
+drag species into color
+
+3--Cluster Visualisation
+row=petal length
+column=petal width
+id=detail
+go into analytic section 
+drag cluster into graph
+ clusters are created
+
+4---Species count(bar graph)
+column=species
+row=count
+color=species
+
+5--Comparison between various species based on sepal lemgth
+sepal lenth=column
+width=row
+id=deatil
+species=color
+
+6--Comparison between various species based on sepal lemgth and sepal width and sepal width
+petal lenth=column
+width=row
+id=deatil
+species=color
+
+7--Comparison between all
+pl pw=column
+sl sw=row
+id=detail
+analtic=drag cluster
+
